@@ -8,7 +8,9 @@ namespace vjp_group_1
         {
             Console.WriteLine("Hello Ngoc");
             Console.WriteLine("Hello Hoint!");
+            Console.WriteLine("Hello KỶ");
             Console.ReadLine();
+            
         }
     }
 }
