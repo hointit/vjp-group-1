@@ -6,6 +6,9 @@ namespace vjp_group_1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Ngoc");
+            Console.WriteLine("Hello Hoint!");
+            Console.ReadLine();
             Console.WriteLine("Hello Phong");
         }
     }
